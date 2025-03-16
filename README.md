@@ -1,5 +1,7 @@
 # Curso de React.Js e Next.Js (nível intermediário e avançado)
 
+## Índice
+
 1. [Módulo: JavaScript Essencial](javascript/README.md)
 
 ## 📚 Sobre o Curso
@@ -8,7 +10,23 @@ Este repositório é dedicado ao **Curso de React.js e Next.js (nível intermedi
 
 ## 🌱 O que estou aprendendo até agora?
 
-- **Módulo JavaScript Essencial**: tem como objetivo fornecer os conhecimentos fundamentais sobre a linguagem JavaScript que são indispensáveis para o desenvolvimento com React.js
+### 🏁 Status dos Módulos  
+
+✅ **Módulo Introdução** (concluído em **20/02/2025**)  
+🎯 Objetivo: Fornecer as informações necessárias para o curso.  
+
+✅ **Módulo JavaScript Essencial** (concluído em **16/03/2025**)  
+🎯 Objetivo: Ensinar os fundamentos essenciais do JavaScript para o desenvolvimento com **React.js**.  
+
+🚧 **Módulo TypeScript Essencial** (*em andamento...*)  
+🎯 Objetivo: Introduzir o uso do **TypeScript** para um código mais seguro e estruturado.  
+
+📌 **Módulo React (O Básico)** (*próximo*)  
+🎯 Objetivo: Apresentar os conceitos básicos do **React.js**, como componentes e props.  
+
+📌 **Módulo Mock Service Worker e Testes** (*próximo*)  
+🎯 Objetivo: Ensinar a utilização do **Mock Service Worker** e a criação de **testes automatizados**.  
+
 
 ## 💡 O que me motiva?
 

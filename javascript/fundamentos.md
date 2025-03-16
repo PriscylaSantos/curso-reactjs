@@ -21,6 +21,8 @@
       - [Loop `while` e `do...while`](#loop-while-e-dowhile)
       - [Loop `forEach` (em Arrays)](#loop-foreach-em-arrays)
 
+Acesse o códigos [aqui](codigos/fundamentos.js)
+
 ## **Como Executar JavaScript**
 
 ### **No Navegador (Console do DevTools)**  
